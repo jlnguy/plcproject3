@@ -5,9 +5,9 @@
 -- ./<name>.exe
 -- 
 -- Author: Eric Pereira: epereira2015@my.fit.edu 
--- Author: Jessica Nguyen, Jnguyen2014@my.fit.edu
+-- Author: Jessica Nguyen, Jnguy2014@my.fit.edu
 -- Course: CSE 4250, Fall 2018
--- Project: Project #2, Expression Evaluation
+-- Project: Project #3, Expression Evaluation
 
 
 with Ada.Text_IO; use Ada.Text_IO;
