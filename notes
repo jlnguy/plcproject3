@@ -1,0 +1,23 @@
+Ada Pseudocode
+
+- Initialize Stack -
+
+Read from input. 
+	If input is an integer, push to stack
+		Integer is one character. I.e. 89 is 8 and 9.
+	If input is a symbol, (switch-case)
+		. Addition
+		+ Minimum
+		// Implication that there are parenthesis and order of operations
+		0 Infinity
+		1 Zero 
+		* Urnary Operation; returns infinity
+		
+		Then take the symbol with its translation and pop 2. 
+		Push the result back into the stack.
+		If another symbol comes in, pop 2.
+		
+	If end of line, print result. (One singular number)
+	Wait for more input.
+	
+	
